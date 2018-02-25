@@ -1,10 +1,10 @@
-
 package STIW3054;
 
 class MyThread extends Thread {
 
     public void run() {
-        System.out.println("running...");
+        System.out.println("Welcome to Real Time Programming...");
+            System.out.println("Enjoy learning...");
     }
 
     public static void main(String args[]) {
